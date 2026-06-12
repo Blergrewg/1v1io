@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "frame0.png": {
+      "frame": { "x": 0, "y": 0, "w": 317, "h": 326 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 326 },
+      "sourceSize": { "w": 317, "h": 326 }
+    },
+    "frame1.png": {
+      "frame": { "x": 317, "y": 0, "w": 317, "h": 326 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 326 },
+      "sourceSize": { "w": 317, "h": 326 }
+    },
+    "frame2.png": {
+      "frame": { "x": 0, "y": 326, "w": 317, "h": 326 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 326 },
+      "sourceSize": { "w": 317, "h": 326 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/piskelapp/piskel/",
+    "version": "1.0",
+    "image": "supersaiyan.png",
+    "format": "RGBA8888",
+    "size": { "w": 634, "h": 652 }
+  }
+}
